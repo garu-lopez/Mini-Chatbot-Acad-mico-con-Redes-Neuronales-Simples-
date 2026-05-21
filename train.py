@@ -1,1 +1,0 @@
-print("Entrenamiento del chatbot")
